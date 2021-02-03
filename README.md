@@ -1,0 +1,1 @@
+# Teste do Hapi.js 
