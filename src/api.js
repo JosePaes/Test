@@ -1,4 +1,4 @@
-const Hapi = require('hapi')
+const Hapi = require('@hapi/hapi')
 const Context = require('./db/strategies/base/contentStrategy')
 const MongoDB = require('./db/strategies/mongodb/mongodb')
 const heroiSchema = require('./db/strategies/mongodb/schemas/heroisSchema')
